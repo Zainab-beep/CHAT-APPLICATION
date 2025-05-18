@@ -71,3 +71,4 @@ Conclusion
 This project offers a straightforward example of building a real-time chat system using Socket.IO. It’s a great entry point for understanding WebSockets and how frontend and backend can communicate in real time. With just a few files and some basic logic, this chat app provides a foundation for more complex real-time applications in the future.
 
 OUTPUT
+![Image](https://github.com/user-attachments/assets/862afc2d-390d-478a-996a-6d4e77071d91)
