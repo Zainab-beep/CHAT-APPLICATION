@@ -14,12 +14,12 @@
 
 This is a simple real-time chat application built using Node.js, Express.js, Socket.IO, and basic frontend technologies (HTML, CSS, and JavaScript**). The application allows multiple users to chat in real-time using WebSocket technology. It’s a beginner-friendly project that demonstrates how real-time bi-directional communication works between the client and server using Socket.IO.
 
-Features
-Real-time messaging without page refresh
-Minimal and clean chat interface
-Lightweight frontend built using plain HTML, CSS, and JavaScript
-Automatic scrolling to the latest message
-Supports multiple users across different tabs or devices
+Features:
+Real-time messaging without page refresh.
+Minimal and clean chat interface.
+Lightweight frontend built using plain HTML, CSS, and JavaScript.
+Automatic scrolling to the latest message.
+Supports multiple users across different tabs or devices.
 
 Folder Structure
 project-folder/
@@ -38,7 +38,7 @@ Express.js: Handles HTTP server setup and serves static files.
 Socket.IO: Enables real-time, event-driven communication.
 HTML/CSS/JS: Forms the structure and interaction on the frontend.
 
-How It Works
+How It Works:
 Backend (server.js)
 Initializes an Express server.
 Serves static files from the public directory.
